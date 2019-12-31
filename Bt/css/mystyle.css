@@ -1,0 +1,32 @@
+#doc{
+	border-right: 1px solid white;
+	
+}
+/*.container border-2{
+	border-width: 2px!important;
+}*/
+/*#khung{
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+}*/
+
+#doc2{
+	border-right: 1px solid #dbdbdb;
+}
+	
+ #icon {
+	border-top-right-radius: 50%;
+	border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+
+}
+#btnGroupAddon{
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
+/*#search{
+	border-top-left-radius: 20%;
+	border-bottom-left-radius: 20%;
+}*/
